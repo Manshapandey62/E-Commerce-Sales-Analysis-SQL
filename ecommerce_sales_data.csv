@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,category,product_name,quantity,unit_price,discount,sales,cost,city,profit,payment_method,order_status
+1,2025-03-29,1117,Beauty,Perfume,3,1838,0.0,5514.0,3106.36,Hyderabad,2407.64,Net Banking,Cancelled
+2,2025-01-22,1089,Home & Kitchen,Water Bottle,2,2733,0.0,5466.0,3388.79,Delhi,2077.21,Net Banking,Delivered
+3,2025-12-30,1055,Home & Kitchen,Table Lamp,3,1275,0.0,3825.0,2647.78,Hyderabad,1177.22,UPI,Delivered
+4,2025-09-22,1090,Electronics,Bluetooth Speaker,1,4690,0.2,3752.0,3187.12,Pune,564.88,Credit Card,Delivered
+5,2025-12-26,1132,Fashion,Hoodie,4,3403,0.2,10889.6,8296.78,Mumbai,2592.82,Net Banking,Delivered
+6,2025-08-03,1040,Fashion,Hoodie,2,1102,0.1,1983.6,1679.52,Pune,304.08,Net Banking,Delivered
+7,2025-06-06,1015,Books,Self Help Book,3,913,0.1,2465.1,1680.32,Pune,784.78,Debit Card,Delivered
+8,2025-09-18,1041,Electronics,Wireless Headphones,3,3368,0.1,9093.6,7393.5,Hyderabad,1700.1,Net Banking,Cancelled
+9,2025-02-04,1101,Electronics,Power Bank,2,3904,0.1,7027.2,5439.35,Kolkata,1587.85,Credit Card,Delivered
+10,2025-02-11,1124,Home & Kitchen,Coffee Maker,1,4793,0.1,4313.7,3107.47,Pune,1206.23,COD,Cancelled
+11,2025-01-13,1071,Home & Kitchen,Coffee Maker,4,2057,0.1,7405.2,4909.68,Bangalore,2495.52,COD,Delivered
+12,2025-05-01,1116,Home & Kitchen,Bedsheet,2,1897,0.0,3794.0,2285.6,Pune,1508.4,COD,Cancelled
+13,2025-06-09,1096,Electronics,Bluetooth Speaker,3,1509,0.0,4527.0,2665.08,Delhi,1861.92,COD,Delivered
+14,2025-05-10,1054,Beauty,Face Wash,2,1491,0.0,2982.0,2058.18,Pune,923.82,Debit Card,Delivered
+15,2025-05-03,1145,Electronics,Wireless Headphones,3,6557,0.1,17703.9,14264.87,Kolkata,3439.03,Net Banking,Delivered
+16,2025-12-15,1003,Books,Notebook,2,758,0.0,1516.0,1011.0,Hyderabad,505.0,COD,Delivered
+17,2025-05-08,1039,Beauty,Shampoo,4,1734,0.05,6589.2,3968.23,Mumbai,2620.97,UPI,Delivered
+18,2025-03-01,1113,Electronics,Bluetooth Speaker,4,7416,0.1,26697.6,21890.88,Mumbai,4806.72,COD,Delivered
+19,2025-02-23,1120,Electronics,Power Bank,1,3908,0.15,3321.8,2919.1,Delhi,402.7,Net Banking,Cancelled
+20,2025-12-04,1054,Beauty,Shampoo,1,453,0.2,362.4,350.6,Bangalore,11.8,COD,Delivered
+21,2025-05-15,1145,Books,Fiction Book,4,965,0.1,3474.0,2699.74,Delhi,774.26,Debit Card,Delivered
+22,2025-10-10,1027,Beauty,Shampoo,3,2285,0.05,6512.25,5176.7,Mumbai,1335.55,Credit Card,Delivered
+23,2025-01-17,1046,Books,Fiction Book,4,808,0.1,2908.8,2348.91,Pune,559.89,Credit Card,Delivered
+24,2025-04-26,1067,Home & Kitchen,Bedsheet,1,3720,0.1,3348.0,2884.77,Mumbai,463.23,Net Banking,Delivered
+25,2025-09-30,1104,Electronics,Smart Watch,3,7509,0.05,21400.65,13706.73,Delhi,7693.92,Credit Card,Delivered
+26,2025-11-09,1036,Electronics,Bluetooth Speaker,2,6396,0.1,11512.8,7275.66,Pune,4237.14,Credit Card,Delivered
+27,2025-10-15,1086,Beauty,Face Wash,4,1171,0.0,4684.0,3199.82,Bangalore,1484.18,UPI,Cancelled
+28,2025-04-11,1008,Electronics,Smart Watch,3,4061,0.05,11573.85,8205.6,Pune,3368.25,Net Banking,Delivered
+29,2025-11-04,1144,Beauty,Lipstick,4,1191,0.05,4525.8,3386.67,Pune,1139.13,Net Banking,Cancelled
+30,2025-05-07,1137,Fashion,Hoodie,2,2082,0.0,4164.0,2367.65,Hyderabad,1796.35,Credit Card,Delivered
+31,2025-09-29,1069,Books,Fiction Book,2,709,0.0,1418.0,1084.72,Kolkata,333.28,Credit Card,Delivered
+32,2025-02-16,1094,Books,Technical Book,4,846,0.05,3214.8,1932.65,Kolkata,1282.15,Credit Card,Delivered
+33,2025-11-21,1100,Beauty,Perfume,4,750,0.05,2850.0,2074.94,Mumbai,775.06,Debit Card,Delivered
+34,2025-09-15,1128,Beauty,Moisturizer,2,1215,0.1,2187.0,1864.04,Bangalore,322.96,COD,Cancelled
+35,2025-03-06,1074,Beauty,Lipstick,2,1156,0.15,1965.2,1604.45,Bangalore,360.75,Debit Card,Delivered
+36,2025-04-03,1090,Beauty,Perfume,1,953,0.05,905.35,667.88,Kolkata,237.47,Net Banking,Cancelled
+37,2025-12-23,1099,Fashion,Sneakers,1,1225,0.15,1041.25,753.21,Hyderabad,288.04,UPI,Delivered
+38,2025-09-30,1113,Fashion,T-Shirt,3,2087,0.15,5321.85,3592.05,Kolkata,1729.8,COD,Delivered
+39,2025-02-21,1083,Beauty,Face Wash,2,275,0.05,522.5,422.68,Mumbai,99.82,UPI,Delivered
+40,2025-07-05,1142,Books,Cookbook,3,718,0.0,2154.0,1645.9,Mumbai,508.1,Net Banking,Delivered
+41,2025-07-13,1005,Books,Technical Book,3,319,0.05,909.15,722.67,Pune,186.48,Net Banking,Delivered
+42,2025-10-28,1132,Books,Technical Book,4,649,0.0,2596.0,1969.77,Hyderabad,626.23,UPI,Delivered
+43,2025-06-22,1141,Beauty,Shampoo,1,290,0.2,232.0,166.92,Mumbai,65.08,UPI,Delivered
+44,2025-07-10,1113,Beauty,Moisturizer,4,1584,0.1,5702.4,3830.91,Delhi,1871.49,UPI,Delivered
+45,2025-08-17,1147,Electronics,Keyboard,2,2905,0.1,5229.0,4522.4,Hyderabad,706.6,Net Banking,Delivered
+46,2025-11-26,1016,Electronics,Smart Watch,3,2056,0.1,5551.2,4690.82,Kolkata,860.38,Credit Card,Delivered
+47,2025-05-25,1141,Beauty,Lipstick,1,739,0.05,702.05,450.63,Kolkata,251.42,UPI,Delivered
+48,2025-09-08,1109,Home & Kitchen,Water Bottle,2,555,0.0,1110.0,834.31,Pune,275.69,COD,Delivered
+49,2025-04-08,1105,Electronics,Wireless Headphones,2,1023,0.15,1739.1,1519.8,Bangalore,219.3,Net Banking,Delivered
+50,2025-01-23,1053,Electronics,Keyboard,4,7766,0.2,24851.2,24205.89,Pune,645.31,Debit Card,Delivered
+51,2025-10-15,1034,Fashion,Jeans,3,2904,0.1,7840.8,5249.75,Hyderabad,2591.05,Debit Card,Delivered
+52,2025-11-09,1145,Fashion,Jeans,2,2565,0.1,4617.0,3855.86,Pune,761.14,COD,Delivered
+53,2025-11-04,1079,Books,Self Help Book,3,947,0.1,2556.9,1622.01,Hyderabad,934.89,Credit Card,Cancelled
+54,2025-02-03,1006,Fashion,Sneakers,1,1196,0.05,1136.2,784.1,Pune,352.1,UPI,Delivered
+55,2025-04-05,1118,Fashion,Handbag,2,442,0.0,884.0,512.23,Hyderabad,371.77,Net Banking,Cancelled
+56,2025-01-05,1092,Beauty,Face Wash,3,871,0.0,2613.0,1461.71,Mumbai,1151.29,UPI,Delivered
+57,2025-08-27,1056,Books,Cookbook,2,943,0.15,1603.1,1309.67,Kolkata,293.43,Net Banking,Delivered
+58,2025-01-14,1028,Home & Kitchen,Water Bottle,1,2355,0.1,2119.5,1795.76,Kolkata,323.74,Debit Card,Delivered
+59,2025-10-01,1038,Fashion,Handbag,2,3146,0.1,5662.8,3504.7,Bangalore,2158.1,UPI,Delivered
+60,2025-05-25,1013,Home & Kitchen,Coffee Maker,3,1013,0.05,2887.05,1755.16,Hyderabad,1131.89,COD,Delivered
+61,2025-04-21,1008,Electronics,Power Bank,2,866,0.1,1558.8,1246.12,Delhi,312.68,Credit Card,Delivered
+62,2025-10-16,1150,Beauty,Shampoo,2,1505,0.2,2408.0,2074.88,Pune,333.12,COD,Delivered
+63,2025-08-17,1036,Beauty,Shampoo,2,1360,0.0,2720.0,1507.41,Kolkata,1212.59,Credit Card,Delivered
+64,2025-03-03,1079,Fashion,Hoodie,4,403,0.1,1450.8,1154.62,Bangalore,296.18,UPI,Delivered
+65,2025-02-16,1001,Fashion,Sneakers,1,2773,0.1,2495.7,1679.76,Mumbai,815.94,UPI,Delivered
+66,2025-05-18,1130,Books,Technical Book,3,839,0.1,2265.3,1701.94,Pune,563.36,Credit Card,Delivered
+67,2025-04-04,1095,Fashion,Hoodie,1,2036,0.1,1832.4,1312.66,Delhi,519.74,Debit Card,Delivered
+68,2025-11-16,1150,Books,Notebook,4,737,0.05,2800.6,2249.57,Hyderabad,551.03,Net Banking,Delivered
+69,2025-03-03,1132,Books,Technical Book,1,154,0.0,154.0,107.15,Delhi,46.85,COD,Cancelled
+70,2025-12-19,1023,Books,Self Help Book,1,765,0.05,726.75,502.16,Delhi,224.59,COD,Delivered
+71,2025-07-17,1134,Electronics,Wireless Headphones,1,3854,0.2,3083.2,2673.04,Bangalore,410.16,COD,Delivered
+72,2025-04-07,1033,Home & Kitchen,Cookware Set,4,2335,0.15,7939.0,5462.83,Kolkata,2476.17,UPI,Delivered
+73,2025-12-31,1015,Beauty,Moisturizer,2,1341,0.1,2413.8,1708.78,Pune,705.02,COD,Delivered
+74,2025-10-09,1043,Books,Cookbook,3,244,0.1,658.8,497.81,Bangalore,160.99,Net Banking,Delivered
+75,2025-08-06,1141,Books,Notebook,3,172,0.1,464.4,396.22,Kolkata,68.18,Net Banking,Cancelled
+76,2025-11-24,1127,Fashion,T-Shirt,1,1227,0.1,1104.3,935.19,Mumbai,169.11,Credit Card,Delivered
+77,2025-07-01,1057,Electronics,Power Bank,3,4249,0.0,12747.0,7496.12,Delhi,5250.88,UPI,Delivered
+78,2025-03-31,1075,Home & Kitchen,Water Bottle,3,501,0.0,1503.0,969.94,Kolkata,533.06,Net Banking,Cancelled
+79,2025-06-01,1025,Fashion,Jeans,3,2794,0.1,7543.8,4881.65,Hyderabad,2662.15,Debit Card,Delivered
+80,2025-05-28,1118,Books,Fiction Book,1,1116,0.2,892.8,731.61,Kolkata,161.19,UPI,Delivered
+81,2025-07-30,1062,Beauty,Perfume,4,1959,0.1,7052.4,4688.11,Kolkata,2364.29,UPI,Delivered
+82,2025-07-13,1113,Books,Fiction Book,1,918,0.15,780.3,600.61,Mumbai,179.69,Net Banking,Delivered
+83,2025-03-28,1055,Home & Kitchen,Bedsheet,1,4450,0.05,4227.5,3106.63,Hyderabad,1120.87,Debit Card,Delivered
+84,2025-09-06,1067,Fashion,Handbag,4,712,0.1,2563.2,1956.18,Bangalore,607.02,Credit Card,Delivered
+85,2025-11-07,1007,Electronics,Power Bank,3,6183,0.0,18549.0,11935.73,Mumbai,6613.27,Net Banking,Delivered
+86,2025-01-11,1130,Electronics,Keyboard,3,4495,0.2,10788.0,9354.48,Bangalore,1433.52,Debit Card,Delivered
+87,2025-12-08,1108,Beauty,Lipstick,1,1957,0.05,1859.15,1208.89,Delhi,650.26,UPI,Delivered
+88,2025-07-20,1022,Fashion,Sneakers,2,1135,0.1,2043.0,1458.67,Bangalore,584.33,Debit Card,Cancelled
+89,2025-02-11,1100,Beauty,Moisturizer,2,1004,0.15,1706.8,1349.02,Delhi,357.78,UPI,Delivered
+90,2025-05-14,1098,Fashion,T-Shirt,1,1801,0.0,1801.0,1363.36,Hyderabad,437.64,Net Banking,Delivered
+91,2025-11-06,1107,Books,Fiction Book,1,783,0.05,743.85,494.38,Delhi,249.47,Net Banking,Cancelled
+92,2025-10-22,1054,Home & Kitchen,Water Bottle,4,4424,0.05,16811.2,12659.37,Mumbai,4151.83,COD,Delivered
+93,2025-03-14,1040,Books,Fiction Book,2,631,0.1,1135.8,831.75,Delhi,304.05,COD,Cancelled
+94,2025-04-12,1098,Electronics,Wireless Headphones,1,1738,0.0,1738.0,956.84,Hyderabad,781.16,COD,Cancelled
+95,2025-01-12,1062,Home & Kitchen,Water Bottle,4,3304,0.1,11894.4,8853.39,Bangalore,3041.01,Net Banking,Delivered
+96,2025-12-31,1026,Books,Fiction Book,3,615,0.1,1660.5,1108.62,Mumbai,551.88,Credit Card,Delivered
+97,2025-11-24,1059,Electronics,Smart Watch,1,3957,0.1,3561.3,2351.64,Pune,1209.66,Net Banking,Delivered
+98,2025-05-11,1037,Fashion,Hoodie,3,801,0.1,2162.7,1587.53,Bangalore,575.17,Debit Card,Delivered
+99,2025-01-16,1108,Fashion,Hoodie,3,2944,0.05,8390.4,6129.01,Kolkata,2261.39,Net Banking,Delivered
+100,2025-11-14,1016,Fashion,Sneakers,2,2861,0.05,5435.9,4156.77,Hyderabad,1279.13,Net Banking,Cancelled
+101,2025-10-20,1073,Electronics,Smart Watch,2,1720,0.05,3268.0,2126.44,Delhi,1141.56,UPI,Delivered
+102,2025-11-15,1046,Electronics,Power Bank,4,3034,0.1,10922.4,9416.76,Bangalore,1505.64,UPI,Delivered
+103,2025-09-16,1120,Books,Self Help Book,1,375,0.05,356.25,209.42,Kolkata,146.83,UPI,Delivered
+104,2025-08-04,1003,Books,Cookbook,2,568,0.15,965.6,806.66,Bangalore,158.94,Net Banking,Delivered
+105,2025-05-17,1076,Books,Cookbook,3,1101,0.05,3137.85,1915.04,Mumbai,1222.81,Credit Card,Delivered
+106,2025-03-31,1146,Electronics,Wireless Headphones,1,2218,0.05,2107.1,1588.95,Kolkata,518.15,Debit Card,Cancelled
+107,2025-11-14,1093,Books,Notebook,4,742,0.0,2968.0,2235.11,Bangalore,732.89,Debit Card,Delivered
+108,2025-12-19,1059,Fashion,Sneakers,4,2289,0.15,7782.6,6422.42,Bangalore,1360.18,Credit Card,Delivered
+109,2025-02-14,1058,Electronics,Keyboard,3,3404,0.0,10212.0,7687.35,Delhi,2524.65,Credit Card,Cancelled
+110,2025-01-12,1039,Home & Kitchen,Cookware Set,2,3808,0.15,6473.6,5646.43,Mumbai,827.17,Debit Card,Delivered
+111,2025-11-22,1074,Books,Technical Book,1,597,0.1,537.3,435.43,Delhi,101.87,COD,Cancelled
+112,2025-08-30,1068,Fashion,Hoodie,4,1645,0.2,5264.0,4660.05,Bangalore,603.95,UPI,Delivered
+113,2025-09-27,1029,Electronics,Power Bank,2,7344,0.0,14688.0,10958.06,Hyderabad,3729.94,UPI,Delivered
+114,2025-03-20,1058,Beauty,Shampoo,3,1230,0.0,3690.0,2304.15,Mumbai,1385.85,Debit Card,Delivered
+115,2025-05-10,1084,Fashion,Jeans,1,2400,0.1,2160.0,1441.86,Kolkata,718.14,Credit Card,Delivered
+116,2025-03-25,1006,Home & Kitchen,Table Lamp,3,3811,0.2,9146.4,8542.66,Bangalore,603.74,COD,Delivered
+117,2025-09-28,1027,Electronics,Keyboard,3,6426,0.1,17350.2,12236.92,Hyderabad,5113.28,Debit Card,Cancelled
+118,2025-06-30,1024,Electronics,Wireless Headphones,1,4180,0.1,3762.0,2425.18,Hyderabad,1336.82,UPI,Delivered
+119,2025-11-15,1117,Fashion,Sneakers,4,3181,0.0,12724.0,8436.86,Mumbai,4287.14,Net Banking,Delivered
+120,2025-02-01,1011,Home & Kitchen,Water Bottle,1,2313,0.1,2081.7,1591.35,Pune,490.35,Credit Card,Delivered
+121,2025-03-21,1054,Electronics,Wireless Headphones,4,4997,0.0,19988.0,13617.99,Kolkata,6370.01,Net Banking,Delivered
+122,2025-03-18,1116,Beauty,Lipstick,1,2243,0.1,2018.7,1688.94,Mumbai,329.76,Debit Card,Delivered
+123,2025-11-13,1123,Fashion,Jeans,2,542,0.1,975.6,833.44,Kolkata,142.16,UPI,Delivered
+124,2025-03-25,1132,Electronics,Wireless Headphones,3,3070,0.15,7828.5,5235.21,Kolkata,2593.29,COD,Delivered
+125,2025-01-25,1045,Fashion,Jeans,3,1208,0.0,3624.0,2199.17,Bangalore,1424.83,Net Banking,Delivered
+126,2025-07-30,1150,Fashion,Sneakers,3,1084,0.1,2926.8,2203.99,Pune,722.81,COD,Delivered
+127,2025-12-19,1135,Electronics,Bluetooth Speaker,3,3771,0.0,11313.0,6301.91,Hyderabad,5011.09,UPI,Delivered
+128,2025-01-20,1050,Electronics,Keyboard,3,2777,0.05,7914.45,5293.01,Delhi,2621.44,Net Banking,Delivered
+129,2025-07-05,1125,Home & Kitchen,Coffee Maker,4,4111,0.05,15621.8,10091.2,Hyderabad,5530.6,COD,Delivered
+130,2025-01-14,1078,Home & Kitchen,Water Bottle,2,3258,0.2,5212.8,3853.09,Mumbai,1359.71,COD,Delivered
+131,2025-03-25,1130,Books,Cookbook,2,530,0.05,1007.0,708.51,Kolkata,298.49,Net Banking,Delivered
+132,2025-06-13,1045,Electronics,Bluetooth Speaker,1,2840,0.05,2698.0,2067.23,Bangalore,630.77,UPI,Cancelled
+133,2025-10-03,1008,Fashion,Sneakers,2,3039,0.15,5166.3,3945.25,Bangalore,1221.05,COD,Delivered
+134,2025-04-30,1044,Beauty,Face Wash,1,2156,0.1,1940.4,1421.16,Hyderabad,519.24,Debit Card,Delivered
+135,2025-02-04,1059,Beauty,Shampoo,1,1516,0.0,1516.0,1056.96,Pune,459.04,Net Banking,Delivered
+136,2025-05-06,1050,Electronics,Wireless Headphones,3,2029,0.1,5478.3,4308.21,Pune,1170.09,Credit Card,Cancelled
+137,2025-08-22,1124,Electronics,Bluetooth Speaker,2,1718,0.0,3436.0,2003.24,Mumbai,1432.76,Credit Card,Delivered
+138,2025-04-29,1114,Books,Fiction Book,3,235,0.05,669.75,495.03,Mumbai,174.72,UPI,Delivered
+139,2025-10-16,1001,Electronics,Smart Watch,4,1102,0.2,3526.4,3123.47,Bangalore,402.93,Debit Card,Cancelled
+140,2025-06-08,1068,Books,Cookbook,1,837,0.15,711.45,477.77,Mumbai,233.68,COD,Delivered
+141,2025-03-06,1076,Books,Notebook,2,971,0.1,1747.8,1214.77,Mumbai,533.03,Credit Card,Delivered
+142,2025-09-24,1099,Books,Technical Book,4,885,0.05,3363.0,2132.04,Kolkata,1230.96,UPI,Delivered
+143,2025-06-02,1012,Fashion,Jeans,2,1426,0.2,2281.6,2102.4,Pune,179.2,Debit Card,Delivered
+144,2025-12-30,1123,Fashion,Handbag,3,2163,0.1,5840.1,4683.64,Bangalore,1156.46,Debit Card,Delivered
+145,2025-09-28,1068,Books,Cookbook,3,548,0.0,1644.0,1254.73,Pune,389.27,UPI,Delivered
+146,2025-10-18,1136,Books,Technical Book,2,643,0.05,1221.7,944.82,Mumbai,276.88,UPI,Cancelled
+147,2025-08-29,1042,Beauty,Moisturizer,2,549,0.0,1098.0,678.47,Hyderabad,419.53,COD,Cancelled
+148,2025-04-28,1021,Beauty,Lipstick,2,1395,0.2,2232.0,1920.55,Kolkata,311.45,UPI,Delivered
+149,2025-06-01,1049,Beauty,Face Wash,2,1183,0.05,2247.7,1794.27,Mumbai,453.43,COD,Delivered
+150,2025-08-30,1069,Home & Kitchen,Water Bottle,4,3983,0.1,14338.8,10418.04,Delhi,3920.76,COD,Delivered
+151,2025-09-11,1002,Home & Kitchen,Bedsheet,2,961,0.05,1825.9,1336.49,Bangalore,489.41,Net Banking,Delivered
+152,2025-04-12,1042,Books,Self Help Book,3,849,0.15,2164.95,1754.22,Pune,410.73,Debit Card,Delivered
+153,2025-11-12,1130,Beauty,Perfume,1,1293,0.1,1163.7,842.72,Hyderabad,320.98,Debit Card,Delivered
+154,2025-09-16,1086,Books,Notebook,3,216,0.1,583.2,404.74,Kolkata,178.46,Debit Card,Delivered
+155,2025-02-05,1077,Fashion,Hoodie,2,1632,0.0,3264.0,2217.33,Pune,1046.67,Net Banking,Delivered
+156,2025-10-06,1092,Electronics,Smart Watch,2,7613,0.1,13703.4,9713.9,Bangalore,3989.5,COD,Delivered
+157,2025-08-19,1032,Books,Notebook,4,298,0.0,1192.0,726.07,Delhi,465.93,COD,Cancelled
+158,2025-09-15,1075,Books,Notebook,2,263,0.05,499.7,335.38,Bangalore,164.32,UPI,Cancelled
+159,2025-01-12,1049,Beauty,Moisturizer,4,605,0.2,1936.0,1804.9,Mumbai,131.1,Net Banking,Delivered
+160,2025-12-13,1130,Fashion,Handbag,3,2093,0.05,5965.05,3486.51,Bangalore,2478.54,UPI,Delivered
+161,2025-09-27,1065,Fashion,Hoodie,2,1960,0.15,3332.0,2987.96,Kolkata,344.04,Net Banking,Delivered
+162,2025-01-25,1079,Books,Notebook,3,631,0.0,1893.0,1052.39,Hyderabad,840.61,UPI,Cancelled
+163,2025-06-09,1093,Books,Notebook,4,995,0.15,3383.0,2443.25,Bangalore,939.75,Credit Card,Cancelled
+164,2025-02-25,1083,Fashion,Hoodie,3,2734,0.2,6561.6,4620.1,Delhi,1941.5,Debit Card,Delivered
+165,2025-09-17,1004,Home & Kitchen,Water Bottle,1,3865,0.1,3478.5,2181.12,Delhi,1297.38,Debit Card,Delivered
+166,2025-04-26,1062,Books,Notebook,4,571,0.05,2169.8,1324.86,Pune,844.94,COD,Delivered
+167,2025-03-03,1149,Home & Kitchen,Table Lamp,4,2064,0.2,6604.8,5012.82,Kolkata,1591.98,Credit Card,Delivered
+168,2025-08-01,1082,Books,Self Help Book,3,1186,0.0,3558.0,2154.28,Pune,1403.72,Debit Card,Delivered
+169,2025-07-15,1034,Books,Notebook,1,457,0.05,434.15,267.04,Hyderabad,167.11,COD,Delivered
+170,2025-01-17,1120,Beauty,Moisturizer,4,2268,0.15,7711.2,6982.96,Delhi,728.24,Credit Card,Delivered
+171,2025-10-17,1008,Electronics,Wireless Headphones,2,1371,0.1,2467.8,1909.96,Bangalore,557.84,Debit Card,Delivered
+172,2025-04-19,1017,Electronics,Wireless Headphones,4,4726,0.0,18904.0,13641.65,Pune,5262.35,UPI,Delivered
+173,2025-01-28,1051,Beauty,Perfume,4,1874,0.15,6371.6,5263.06,Bangalore,1108.54,Net Banking,Delivered
+174,2025-08-08,1081,Fashion,Handbag,1,2437,0.0,2437.0,1386.41,Delhi,1050.59,Credit Card,Delivered
+175,2025-04-29,1114,Electronics,Smart Watch,3,3793,0.15,9672.15,7943.66,Mumbai,1728.49,COD,Cancelled
+176,2025-08-14,1011,Books,Notebook,4,309,0.1,1112.4,910.57,Mumbai,201.83,Credit Card,Delivered
+177,2025-10-05,1032,Electronics,Smart Watch,3,4840,0.05,13794.0,10032.97,Bangalore,3761.03,COD,Delivered
+178,2025-05-29,1126,Electronics,Keyboard,3,7065,0.05,20135.25,15337.97,Kolkata,4797.28,Credit Card,Delivered
+179,2025-09-15,1029,Beauty,Shampoo,4,1568,0.1,5644.8,4499.71,Pune,1145.09,COD,Delivered
+180,2025-07-08,1097,Beauty,Shampoo,2,1630,0.05,3097.0,2102.98,Bangalore,994.02,Debit Card,Delivered
+181,2025-05-09,1108,Home & Kitchen,Water Bottle,2,1604,0.1,2887.2,1771.29,Pune,1115.91,UPI,Delivered
+182,2025-08-19,1066,Home & Kitchen,Coffee Maker,4,2155,0.1,7758.0,6194.39,Delhi,1563.61,Debit Card,Delivered
+183,2025-05-01,1121,Books,Fiction Book,4,715,0.15,2431.0,1580.26,Hyderabad,850.74,UPI,Cancelled
+184,2025-01-20,1138,Home & Kitchen,Table Lamp,3,4195,0.05,11955.75,8220.28,Kolkata,3735.47,Debit Card,Delivered
+185,2025-07-07,1057,Home & Kitchen,Cookware Set,1,2323,0.0,2323.0,1366.82,Pune,956.18,Debit Card,Delivered
+186,2025-09-11,1024,Beauty,Face Wash,3,725,0.0,2175.0,1547.9,Mumbai,627.1,Credit Card,Delivered
+187,2025-01-30,1058,Fashion,Sneakers,3,459,0.0,1377.0,863.21,Kolkata,513.79,Net Banking,Delivered
+188,2025-09-08,1047,Books,Notebook,4,630,0.0,2520.0,1513.87,Bangalore,1006.13,COD,Cancelled
+189,2025-07-17,1047,Electronics,Power Bank,2,2636,0.15,4481.2,3043.09,Kolkata,1438.11,COD,Delivered
+190,2025-04-17,1113,Beauty,Shampoo,3,1036,0.05,2952.6,1948.52,Kolkata,1004.08,COD,Delivered
+191,2025-12-15,1064,Books,Fiction Book,3,696,0.05,1983.6,1567.52,Pune,416.08,UPI,Delivered
+192,2025-05-09,1024,Beauty,Face Wash,1,1825,0.1,1642.5,1212.14,Delhi,430.36,COD,Cancelled
+193,2025-12-30,1106,Beauty,Face Wash,2,1819,0.2,2910.4,2058.6,Kolkata,851.8,COD,Cancelled
+194,2025-08-16,1107,Beauty,Shampoo,3,1105,0.05,3149.25,1942.48,Hyderabad,1206.77,Credit Card,Cancelled
+195,2025-07-22,1148,Fashion,Jeans,3,2643,0.0,7929.0,5696.69,Pune,2232.31,Debit Card,Delivered
+196,2025-12-07,1128,Fashion,Jeans,4,1295,0.05,4921.0,3216.78,Hyderabad,1704.22,COD,Delivered
+197,2025-03-02,1098,Electronics,Keyboard,1,7104,0.1,6393.6,5509.29,Hyderabad,884.31,Net Banking,Delivered
+198,2025-11-26,1085,Fashion,Sneakers,1,576,0.0,576.0,429.0,Pune,147.0,COD,Delivered
+199,2025-12-10,1038,Fashion,T-Shirt,2,497,0.1,894.6,671.4,Hyderabad,223.2,UPI,Delivered
+200,2025-03-09,1110,Home & Kitchen,Cookware Set,3,2154,0.05,6138.9,3798.9,Hyderabad,2340.0,UPI,Delivered
+201,2025-02-13,1097,Books,Notebook,4,596,0.1,2145.6,1362.83,Mumbai,782.77,UPI,Cancelled
+202,2025-03-15,1008,Beauty,Shampoo,2,1401,0.2,2241.6,1672.42,Hyderabad,569.18,COD,Delivered
+203,2025-09-25,1130,Beauty,Face Wash,4,2167,0.1,7801.2,5082.31,Bangalore,2718.89,Credit Card,Delivered
+204,2025-06-25,1107,Books,Technical Book,3,1164,0.0,3492.0,2638.62,Pune,853.38,Net Banking,Delivered
+205,2025-06-07,1013,Beauty,Shampoo,4,1352,0.1,4867.2,3126.69,Mumbai,1740.51,COD,Cancelled
+206,2025-06-03,1126,Beauty,Lipstick,2,446,0.1,802.8,638.18,Kolkata,164.62,Credit Card,Delivered
+207,2025-12-30,1108,Books,Technical Book,1,795,0.1,715.5,494.73,Delhi,220.77,Credit Card,Delivered
+208,2025-08-06,1034,Books,Self Help Book,2,1135,0.0,2270.0,1307.47,Delhi,962.53,COD,Delivered
+209,2025-09-28,1091,Home & Kitchen,Cookware Set,2,2626,0.15,4464.2,3457.9,Bangalore,1006.3,COD,Delivered
+210,2025-07-20,1148,Electronics,Power Bank,1,7215,0.0,7215.0,5099.45,Hyderabad,2115.55,Credit Card,Delivered
+211,2025-02-08,1137,Electronics,Bluetooth Speaker,4,1241,0.1,4467.6,3801.48,Bangalore,666.12,Credit Card,Delivered
+212,2025-02-15,1038,Beauty,Perfume,3,845,0.1,2281.5,1458.96,Kolkata,822.54,Credit Card,Delivered
+213,2025-09-27,1102,Beauty,Perfume,4,1730,0.0,6920.0,4476.77,Kolkata,2443.23,COD,Cancelled
+214,2025-03-04,1073,Electronics,Bluetooth Speaker,2,7890,0.0,15780.0,12173.42,Bangalore,3606.58,Credit Card,Delivered
+215,2025-10-13,1009,Beauty,Face Wash,4,1343,0.0,5372.0,3039.04,Delhi,2332.96,UPI,Delivered
+216,2025-09-21,1002,Beauty,Face Wash,2,2469,0.0,4938.0,3741.35,Delhi,1196.65,COD,Delivered
+217,2025-09-24,1064,Books,Fiction Book,4,1030,0.05,3914.0,2672.69,Kolkata,1241.31,UPI,Delivered
+218,2025-11-20,1035,Fashion,Handbag,3,1748,0.0,5244.0,3981.32,Delhi,1262.68,Debit Card,Cancelled
+219,2025-11-04,1093,Fashion,T-Shirt,4,1847,0.0,7388.0,4642.53,Kolkata,2745.47,COD,Delivered
+220,2025-09-17,1150,Books,Technical Book,2,281,0.1,505.8,326.12,Hyderabad,179.68,Debit Card,Delivered
+221,2025-03-28,1006,Books,Technical Book,2,496,0.1,892.8,661.11,Kolkata,231.69,Credit Card,Delivered
+222,2025-04-03,1109,Electronics,Smart Watch,1,7516,0.0,7516.0,4612.32,Delhi,2903.68,Credit Card,Delivered
+223,2025-12-19,1090,Home & Kitchen,Table Lamp,4,2396,0.0,9584.0,5352.15,Pune,4231.85,Net Banking,Delivered
+224,2025-11-03,1059,Books,Fiction Book,4,966,0.1,3477.6,2226.37,Delhi,1251.23,Credit Card,Cancelled
+225,2025-04-19,1012,Books,Technical Book,2,168,0.05,319.2,254.94,Pune,64.26,Debit Card,Cancelled
+226,2025-08-03,1084,Electronics,Keyboard,2,7046,0.0,14092.0,10076.37,Mumbai,4015.63,Credit Card,Delivered
+227,2025-03-25,1113,Fashion,Jeans,4,3086,0.0,12344.0,7978.64,Delhi,4365.36,COD,Delivered
+228,2025-11-03,1075,Beauty,Moisturizer,3,1993,0.1,5381.1,4177.43,Pune,1203.67,Credit Card,Delivered
+229,2025-03-22,1012,Fashion,Jeans,3,3160,0.1,8532.0,5523.92,Bangalore,3008.08,Net Banking,Delivered
+230,2025-10-21,1028,Home & Kitchen,Coffee Maker,3,1536,0.0,4608.0,3028.93,Pune,1579.07,Credit Card,Delivered
+231,2025-03-04,1023,Home & Kitchen,Cookware Set,4,2420,0.15,8228.0,7364.8,Bangalore,863.2,Debit Card,Delivered
+232,2025-01-07,1056,Fashion,Sneakers,1,2035,0.1,1831.5,1196.77,Delhi,634.73,Debit Card,Delivered
+233,2025-11-01,1113,Electronics,Power Bank,3,4073,0.0,12219.0,7871.66,Kolkata,4347.34,Credit Card,Cancelled
+234,2025-03-08,1075,Books,Self Help Book,4,986,0.0,3944.0,3055.87,Pune,888.13,Debit Card,Delivered
+235,2025-01-30,1122,Beauty,Moisturizer,3,2041,0.15,5204.55,4013.38,Pune,1191.17,Debit Card,Cancelled
+236,2025-05-06,1145,Books,Self Help Book,4,350,0.2,1120.0,862.87,Pune,257.13,Net Banking,Delivered
+237,2025-02-11,1098,Beauty,Perfume,1,564,0.15,479.4,367.33,Pune,112.07,COD,Delivered
+238,2025-04-02,1024,Home & Kitchen,Cookware Set,1,682,0.15,579.7,460.56,Pune,119.14,Net Banking,Delivered
+239,2025-01-08,1028,Home & Kitchen,Water Bottle,3,3470,0.1,9369.0,7475.3,Pune,1893.7,UPI,Cancelled
+240,2025-09-03,1149,Electronics,Keyboard,4,2709,0.05,10294.2,7102.43,Kolkata,3191.77,Net Banking,Delivered
+241,2025-05-27,1048,Home & Kitchen,Bedsheet,1,2260,0.2,1808.0,1320.34,Hyderabad,487.66,Credit Card,Delivered
+242,2025-09-06,1082,Beauty,Lipstick,4,1439,0.05,5468.2,3842.67,Hyderabad,1625.53,COD,Delivered
+243,2025-08-13,1096,Home & Kitchen,Bedsheet,3,3419,0.0,10257.0,7151.65,Bangalore,3105.35,Credit Card,Delivered
+244,2025-11-19,1054,Home & Kitchen,Table Lamp,1,2024,0.2,1619.2,1127.42,Mumbai,491.78,UPI,Delivered
+245,2025-09-21,1026,Fashion,Handbag,4,2641,0.15,8979.4,8216.95,Delhi,762.45,COD,Delivered
+246,2025-05-08,1127,Home & Kitchen,Coffee Maker,4,3258,0.15,11077.2,9472.34,Delhi,1604.86,Debit Card,Delivered
+247,2025-10-17,1045,Beauty,Shampoo,2,2214,0.15,3763.8,3400.56,Pune,363.24,Net Banking,Delivered
+248,2025-04-21,1034,Home & Kitchen,Table Lamp,2,2722,0.0,5444.0,3498.65,Bangalore,1945.35,Credit Card,Delivered
+249,2025-02-01,1074,Home & Kitchen,Water Bottle,3,736,0.0,2208.0,1579.94,Mumbai,628.06,UPI,Delivered
+250,2025-09-17,1059,Beauty,Lipstick,4,252,0.05,957.6,684.99,Mumbai,272.61,Debit Card,Delivered
+251,2025-09-21,1134,Beauty,Moisturizer,2,2084,0.15,3542.8,2851.54,Pune,691.26,Net Banking,Delivered
+252,2025-04-10,1082,Beauty,Face Wash,4,1842,0.15,6262.8,4583.41,Bangalore,1679.39,Debit Card,Delivered
+253,2025-08-05,1120,Books,Technical Book,1,367,0.1,330.3,280.37,Mumbai,49.93,Net Banking,Cancelled
+254,2025-12-06,1140,Books,Cookbook,3,580,0.2,1392.0,1064.64,Pune,327.36,COD,Delivered
+255,2025-01-13,1141,Fashion,T-Shirt,1,1727,0.05,1640.65,970.65,Hyderabad,670.0,Debit Card,Delivered
+256,2025-08-04,1008,Fashion,T-Shirt,1,1882,0.15,1599.7,1050.66,Hyderabad,549.04,Debit Card,Delivered
+257,2025-01-21,1013,Fashion,Sneakers,4,1339,0.1,4820.4,3659.27,Delhi,1161.13,Debit Card,Cancelled
+258,2025-04-21,1102,Electronics,Smart Watch,1,5963,0.2,4770.4,3322.74,Delhi,1447.66,COD,Delivered
+259,2025-06-05,1016,Beauty,Lipstick,4,1601,0.1,5763.6,3981.55,Delhi,1782.05,UPI,Delivered
+260,2025-09-01,1057,Beauty,Moisturizer,4,1897,0.15,6449.8,5077.37,Kolkata,1372.43,Net Banking,Delivered
+261,2025-08-05,1045,Beauty,Shampoo,1,506,0.1,455.4,374.87,Kolkata,80.53,Debit Card,Cancelled
+262,2025-08-06,1004,Home & Kitchen,Bedsheet,4,2504,0.1,9014.4,5646.37,Mumbai,3368.03,COD,Delivered
+263,2025-07-18,1106,Electronics,Keyboard,4,3455,0.0,13820.0,9907.48,Delhi,3912.52,UPI,Delivered
+264,2025-11-17,1049,Fashion,T-Shirt,2,2714,0.0,5428.0,3787.92,Hyderabad,1640.08,Net Banking,Delivered
+265,2025-09-05,1054,Beauty,Face Wash,3,1976,0.1,5335.2,3574.33,Delhi,1760.87,COD,Delivered
+266,2025-03-03,1086,Fashion,Sneakers,2,3183,0.2,5092.8,4410.42,Kolkata,682.38,Net Banking,Delivered
+267,2025-11-29,1050,Fashion,Jeans,2,2157,0.15,3666.9,3346.26,Bangalore,320.64,Debit Card,Delivered
+268,2025-11-28,1139,Beauty,Lipstick,2,2090,0.05,3971.0,3215.23,Pune,755.77,UPI,Delivered
+269,2025-10-12,1059,Electronics,Smart Watch,3,6902,0.0,20706.0,15338.18,Pune,5367.82,COD,Delivered
+270,2025-12-18,1094,Fashion,T-Shirt,3,644,0.0,1932.0,1274.52,Delhi,657.48,UPI,Cancelled
+271,2025-06-05,1104,Home & Kitchen,Coffee Maker,3,385,0.0,1155.0,730.09,Mumbai,424.91,Debit Card,Delivered
+272,2025-09-04,1034,Home & Kitchen,Water Bottle,3,4247,0.2,10192.8,7458.27,Bangalore,2734.53,UPI,Delivered
+273,2025-12-15,1091,Electronics,Wireless Headphones,1,5222,0.1,4699.8,4064.08,Mumbai,635.72,UPI,Delivered
+274,2025-07-12,1145,Beauty,Face Wash,2,1489,0.0,2978.0,1664.56,Kolkata,1313.44,Credit Card,Delivered
+275,2025-04-19,1047,Fashion,Handbag,1,2003,0.1,1802.7,1451.21,Mumbai,351.49,UPI,Delivered
+276,2025-02-10,1112,Books,Cookbook,2,903,0.0,1806.0,1238.84,Bangalore,567.16,Net Banking,Delivered
+277,2025-07-08,1024,Beauty,Face Wash,3,2120,0.0,6360.0,4707.37,Mumbai,1652.63,COD,Delivered
+278,2025-11-14,1057,Beauty,Shampoo,2,478,0.0,956.0,553.92,Pune,402.08,Credit Card,Delivered
+279,2025-11-13,1003,Electronics,Power Bank,2,6245,0.0,12490.0,7743.37,Bangalore,4746.63,COD,Cancelled
+280,2025-04-22,1126,Beauty,Lipstick,4,2188,0.15,7439.2,6460.26,Bangalore,978.94,COD,Delivered
+281,2025-09-12,1009,Beauty,Perfume,2,2022,0.1,3639.6,2379.83,Delhi,1259.77,Debit Card,Delivered
+282,2025-12-23,1102,Home & Kitchen,Cookware Set,2,4207,0.1,7572.6,4879.17,Delhi,2693.43,Debit Card,Delivered
+283,2025-07-17,1001,Electronics,Wireless Headphones,3,4675,0.0,14025.0,8030.63,Mumbai,5994.37,Credit Card,Delivered
+284,2025-01-03,1081,Books,Fiction Book,1,731,0.05,694.45,566.57,Delhi,127.88,Debit Card,Cancelled
+285,2025-12-05,1043,Beauty,Perfume,3,1697,0.1,4581.9,3250.1,Hyderabad,1331.8,Debit Card,Delivered
+286,2025-07-12,1027,Home & Kitchen,Cookware Set,1,3686,0.1,3317.4,2485.72,Kolkata,831.68,Debit Card,Delivered
+287,2025-11-09,1072,Books,Technical Book,3,577,0.05,1644.45,1298.99,Kolkata,345.46,COD,Delivered
+288,2025-04-23,1012,Home & Kitchen,Cookware Set,4,3550,0.1,12780.0,7979.3,Kolkata,4800.7,Credit Card,Delivered
+289,2025-02-28,1033,Books,Technical Book,1,718,0.15,610.3,494.89,Kolkata,115.41,COD,Cancelled
+290,2025-03-20,1014,Fashion,T-Shirt,3,2644,0.1,7138.8,5587.62,Bangalore,1551.18,Net Banking,Delivered
+291,2025-07-21,1017,Books,Notebook,1,718,0.0,718.0,469.23,Mumbai,248.77,COD,Delivered
+292,2025-03-12,1131,Fashion,Handbag,4,1080,0.0,4320.0,2892.38,Mumbai,1427.62,Net Banking,Cancelled
+293,2025-08-07,1020,Fashion,T-Shirt,3,1937,0.0,5811.0,3991.77,Bangalore,1819.23,UPI,Cancelled
+294,2025-10-10,1010,Electronics,Power Bank,4,5298,0.1,19072.8,13474.93,Delhi,5597.87,UPI,Delivered
+295,2025-03-20,1059,Electronics,Wireless Headphones,3,4995,0.0,14985.0,8775.37,Kolkata,6209.63,Net Banking,Delivered
+296,2025-10-28,1068,Home & Kitchen,Water Bottle,3,3215,0.1,8680.5,6210.17,Delhi,2470.33,Net Banking,Cancelled
+297,2025-06-27,1085,Electronics,Power Bank,3,2720,0.1,7344.0,5882.13,Delhi,1461.87,COD,Cancelled
+298,2025-06-19,1039,Beauty,Lipstick,1,1471,0.1,1323.9,1024.8,Delhi,299.1,Net Banking,Delivered
+299,2025-07-22,1061,Books,Notebook,3,218,0.0,654.0,496.76,Mumbai,157.24,Credit Card,Delivered
+300,2025-03-18,1131,Home & Kitchen,Cookware Set,1,4733,0.15,4023.05,3618.49,Mumbai,404.56,UPI,Delivered
+301,2025-12-11,1039,Electronics,Bluetooth Speaker,2,6695,0.2,10712.0,9164.43,Delhi,1547.57,UPI,Delivered
+302,2025-05-03,1114,Beauty,Lipstick,1,767,0.05,728.65,575.98,Hyderabad,152.67,Net Banking,Delivered
+303,2025-12-29,1054,Home & Kitchen,Water Bottle,3,2859,0.1,7719.3,5521.49,Hyderabad,2197.81,Debit Card,Delivered
+304,2025-05-13,1092,Beauty,Face Wash,3,1977,0.05,5634.45,3479.62,Pune,2154.83,Debit Card,Delivered
+305,2025-10-10,1056,Fashion,Sneakers,1,2019,0.0,2019.0,1539.79,Mumbai,479.21,Net Banking,Cancelled
+306,2025-04-20,1106,Electronics,Keyboard,1,4190,0.15,3561.5,3062.31,Mumbai,499.19,Credit Card,Delivered
+307,2025-09-18,1087,Electronics,Wireless Headphones,1,7772,0.05,7383.4,5206.99,Delhi,2176.41,Debit Card,Cancelled
+308,2025-04-22,1045,Beauty,Shampoo,2,1508,0.1,2714.4,1925.73,Delhi,788.67,Net Banking,Delivered
+309,2025-05-06,1122,Books,Self Help Book,1,811,0.1,729.9,510.45,Mumbai,219.45,Credit Card,Delivered
+310,2025-04-28,1143,Beauty,Shampoo,4,2453,0.0,9812.0,6000.51,Kolkata,3811.49,Credit Card,Delivered
+311,2025-12-20,1141,Beauty,Shampoo,1,218,0.1,196.2,155.11,Kolkata,41.09,COD,Delivered
+312,2025-05-08,1088,Electronics,Smart Watch,1,4815,0.0,4815.0,3021.69,Mumbai,1793.31,Credit Card,Delivered
+313,2025-06-20,1025,Electronics,Keyboard,1,5200,0.15,4420.0,3591.16,Bangalore,828.84,Debit Card,Delivered
+314,2025-11-08,1065,Books,Technical Book,3,174,0.1,469.8,370.81,Pune,98.99,Debit Card,Delivered
+315,2025-09-28,1131,Electronics,Wireless Headphones,3,2187,0.1,5904.9,4846.86,Bangalore,1058.04,Net Banking,Delivered
+316,2025-12-26,1036,Books,Fiction Book,4,683,0.1,2458.8,1616.79,Hyderabad,842.01,Net Banking,Delivered
+317,2025-12-05,1003,Beauty,Face Wash,1,731,0.1,657.9,456.05,Kolkata,201.85,Credit Card,Delivered
+318,2025-12-14,1124,Home & Kitchen,Bedsheet,3,3493,0.1,9431.1,6929.95,Mumbai,2501.15,UPI,Delivered
+319,2025-12-21,1044,Books,Fiction Book,4,956,0.1,3441.6,2770.32,Pune,671.28,COD,Delivered
+320,2025-09-02,1062,Home & Kitchen,Bedsheet,1,2225,0.05,2113.75,1620.0,Mumbai,493.75,UPI,Delivered
+321,2025-05-18,1044,Beauty,Moisturizer,1,815,0.15,692.75,611.08,Bangalore,81.67,Credit Card,Delivered
+322,2025-03-03,1038,Electronics,Smart Watch,2,4049,0.1,7288.2,5936.93,Delhi,1351.27,Credit Card,Cancelled
+323,2025-07-26,1132,Home & Kitchen,Table Lamp,2,4551,0.15,7736.7,5138.28,Kolkata,2598.42,UPI,Delivered
+324,2025-04-06,1079,Beauty,Moisturizer,1,591,0.1,531.9,360.94,Pune,170.96,COD,Delivered
+325,2025-09-15,1008,Beauty,Moisturizer,4,565,0.2,1808.0,1672.05,Bangalore,135.95,UPI,Delivered
+326,2025-03-02,1109,Electronics,Keyboard,4,6469,0.2,20700.8,19001.01,Bangalore,1699.79,Net Banking,Delivered
+327,2025-10-31,1035,Home & Kitchen,Water Bottle,1,2806,0.1,2525.4,1745.16,Kolkata,780.24,Debit Card,Delivered
+328,2025-05-18,1083,Fashion,T-Shirt,4,2654,0.1,9554.4,7949.47,Delhi,1604.93,Net Banking,Delivered
+329,2025-07-30,1087,Beauty,Perfume,1,2321,0.05,2204.95,1398.73,Bangalore,806.22,Debit Card,Delivered
+330,2025-06-19,1014,Fashion,Hoodie,1,1738,0.1,1564.2,1300.09,Bangalore,264.11,Credit Card,Cancelled
+331,2025-12-05,1065,Home & Kitchen,Water Bottle,2,1398,0.1,2516.4,1954.93,Hyderabad,561.47,COD,Cancelled
+332,2025-02-12,1012,Electronics,Power Bank,2,2549,0.15,4333.3,3518.79,Kolkata,814.51,UPI,Delivered
+333,2025-01-26,1075,Beauty,Shampoo,4,2057,0.15,6993.8,5741.44,Hyderabad,1252.36,COD,Delivered
+334,2025-01-07,1045,Home & Kitchen,Bedsheet,4,2687,0.15,9135.8,7540.59,Bangalore,1595.21,UPI,Cancelled
+335,2025-09-21,1095,Home & Kitchen,Water Bottle,3,4574,0.1,12349.8,10619.15,Pune,1730.65,Net Banking,Delivered
+336,2025-12-30,1058,Beauty,Lipstick,3,1124,0.05,3203.4,1909.69,Mumbai,1293.71,Net Banking,Delivered
+337,2025-10-23,1072,Home & Kitchen,Bedsheet,2,4959,0.1,8926.2,7702.52,Hyderabad,1223.68,UPI,Delivered
+338,2025-10-09,1086,Home & Kitchen,Water Bottle,2,949,0.05,1803.1,1469.69,Hyderabad,333.41,COD,Delivered
+339,2025-05-08,1099,Fashion,Jeans,3,2411,0.1,6509.7,5276.68,Hyderabad,1233.02,UPI,Delivered
+340,2025-10-05,1141,Beauty,Face Wash,1,1024,0.05,972.8,648.88,Delhi,323.92,Credit Card,Cancelled
+341,2025-02-01,1137,Fashion,Sneakers,4,1822,0.0,7288.0,4951.38,Hyderabad,2336.62,Net Banking,Delivered
+342,2025-01-18,1144,Fashion,Sneakers,1,1244,0.05,1181.8,930.2,Hyderabad,251.6,Credit Card,Delivered
+343,2025-09-27,1095,Home & Kitchen,Coffee Maker,4,2232,0.1,8035.2,5963.6,Kolkata,2071.6,Net Banking,Delivered
+344,2025-05-11,1150,Beauty,Lipstick,3,1645,0.0,4935.0,3030.52,Pune,1904.48,Net Banking,Delivered
+345,2025-07-09,1052,Electronics,Bluetooth Speaker,2,5282,0.15,8979.4,7744.08,Delhi,1235.32,Debit Card,Delivered
+346,2025-07-24,1081,Electronics,Keyboard,2,6515,0.1,11727.0,7326.88,Kolkata,4400.12,Credit Card,Delivered
+347,2025-11-11,1111,Beauty,Face Wash,1,1551,0.2,1240.8,1070.63,Bangalore,170.17,Credit Card,Delivered
+348,2025-10-13,1103,Books,Cookbook,1,1175,0.15,998.75,784.87,Pune,213.88,Debit Card,Delivered
+349,2025-07-20,1108,Fashion,Handbag,2,3228,0.1,5810.4,4464.19,Pune,1346.21,COD,Delivered
+350,2025-07-27,1009,Beauty,Face Wash,1,1590,0.15,1351.5,1150.14,Hyderabad,201.36,Credit Card,Delivered
+351,2025-05-19,1103,Electronics,Keyboard,2,5912,0.15,10050.4,7569.51,Bangalore,2480.89,UPI,Delivered
+352,2025-07-11,1054,Electronics,Wireless Headphones,4,3353,0.05,12741.4,8357.71,Delhi,4383.69,Debit Card,Delivered
+353,2025-09-30,1006,Electronics,Bluetooth Speaker,3,2986,0.2,7166.4,5473.91,Bangalore,1692.49,Credit Card,Delivered
+354,2025-04-15,1083,Beauty,Moisturizer,2,2424,0.1,4363.2,3422.52,Mumbai,940.68,COD,Delivered
+355,2025-07-27,1114,Beauty,Shampoo,2,409,0.15,695.3,625.9,Hyderabad,69.4,Credit Card,Delivered
+356,2025-03-08,1118,Beauty,Shampoo,1,1598,0.05,1518.1,1214.55,Mumbai,303.55,Net Banking,Cancelled
+357,2025-04-15,1044,Electronics,Smart Watch,4,3881,0.15,13195.4,10189.18,Mumbai,3006.22,UPI,Delivered
+358,2025-03-07,1131,Fashion,Jeans,4,1894,0.0,7576.0,4933.59,Mumbai,2642.41,Debit Card,Delivered
+359,2025-09-10,1143,Books,Fiction Book,4,595,0.1,2142.0,1373.0,Mumbai,769.0,Net Banking,Delivered
+360,2025-04-22,1108,Fashion,Hoodie,3,3496,0.1,9439.2,7945.24,Hyderabad,1493.96,COD,Delivered
+361,2025-12-11,1061,Home & Kitchen,Cookware Set,1,3073,0.15,2612.05,1972.53,Pune,639.52,Net Banking,Cancelled
+362,2025-08-28,1002,Fashion,Handbag,1,2996,0.0,2996.0,1694.13,Delhi,1301.87,Net Banking,Delivered
+363,2025-08-08,1122,Beauty,Shampoo,2,1825,0.1,3285.0,2256.29,Kolkata,1028.71,COD,Delivered
+364,2025-04-21,1129,Electronics,Smart Watch,1,2519,0.1,2267.1,1516.69,Delhi,750.41,Net Banking,Delivered
+365,2025-07-09,1017,Electronics,Smart Watch,2,2249,0.15,3823.3,3295.25,Delhi,528.05,Debit Card,Cancelled
+366,2025-08-27,1072,Fashion,Handbag,1,1248,0.15,1060.8,749.9,Pune,310.9,Credit Card,Delivered
+367,2025-02-27,1049,Books,Technical Book,1,824,0.0,824.0,581.92,Delhi,242.08,Net Banking,Delivered
+368,2025-09-30,1014,Fashion,Jeans,3,1385,0.1,3739.5,2877.03,Kolkata,862.47,Debit Card,Cancelled
+369,2025-11-13,1125,Books,Notebook,3,271,0.15,691.05,599.49,Delhi,91.56,Credit Card,Delivered
+370,2025-11-20,1040,Home & Kitchen,Cookware Set,1,3512,0.05,3336.4,2106.85,Bangalore,1229.55,Credit Card,Delivered
+371,2025-06-20,1045,Beauty,Lipstick,1,1417,0.0,1417.0,943.1,Mumbai,473.9,Net Banking,Cancelled
+372,2025-03-01,1098,Beauty,Shampoo,3,1681,0.0,5043.0,3679.48,Bangalore,1363.52,Debit Card,Cancelled
+373,2025-04-06,1006,Books,Cookbook,2,437,0.05,830.3,530.86,Bangalore,299.44,Net Banking,Delivered
+374,2025-10-18,1022,Home & Kitchen,Cookware Set,3,1775,0.05,5058.75,3750.67,Delhi,1308.08,COD,Delivered
+375,2025-11-25,1023,Beauty,Shampoo,1,798,0.05,758.1,494.79,Mumbai,263.31,Credit Card,Delivered
+376,2025-11-10,1094,Home & Kitchen,Water Bottle,3,4425,0.05,12611.25,9735.33,Delhi,2875.92,Net Banking,Delivered
+377,2025-07-28,1126,Electronics,Bluetooth Speaker,4,2895,0.2,9264.0,7180.28,Mumbai,2083.72,Credit Card,Cancelled
+378,2025-07-06,1090,Beauty,Face Wash,2,1554,0.1,2797.2,1990.26,Kolkata,806.94,Debit Card,Delivered
+379,2025-10-10,1079,Electronics,Power Bank,3,1230,0.0,3690.0,2082.02,Kolkata,1607.98,UPI,Delivered
+380,2025-03-31,1036,Beauty,Lipstick,1,664,0.05,630.8,378.58,Hyderabad,252.22,Net Banking,Delivered
+381,2025-10-02,1106,Books,Notebook,1,946,0.05,898.7,606.15,Pune,292.55,Net Banking,Delivered
+382,2025-01-30,1045,Books,Technical Book,3,933,0.0,2799.0,2072.08,Bangalore,726.92,Credit Card,Delivered
+383,2025-02-07,1070,Fashion,Handbag,3,2309,0.0,6927.0,3986.91,Hyderabad,2940.09,Debit Card,Delivered
+384,2025-10-05,1068,Electronics,Power Bank,1,2111,0.1,1899.9,1420.88,Pune,479.02,COD,Delivered
+385,2025-12-07,1083,Beauty,Moisturizer,1,779,0.15,662.15,546.6,Pune,115.55,Debit Card,Delivered
+386,2025-04-17,1088,Fashion,Sneakers,4,529,0.1,1904.4,1175.25,Delhi,729.15,Net Banking,Delivered
+387,2025-12-14,1065,Home & Kitchen,Water Bottle,4,4250,0.0,17000.0,12829.56,Hyderabad,4170.44,COD,Delivered
+388,2025-10-10,1113,Books,Self Help Book,3,642,0.0,1926.0,1126.53,Kolkata,799.47,Debit Card,Delivered
+389,2025-11-29,1105,Fashion,T-Shirt,4,3141,0.1,11307.6,7584.47,Kolkata,3723.13,UPI,Delivered
+390,2025-11-18,1012,Fashion,Handbag,2,584,0.05,1109.6,770.95,Delhi,338.65,Credit Card,Cancelled
+391,2025-05-04,1130,Beauty,Moisturizer,1,1911,0.1,1719.9,1392.77,Delhi,327.13,Debit Card,Delivered
+392,2025-12-23,1146,Fashion,Handbag,3,3060,0.05,8721.0,6203.29,Kolkata,2517.71,Debit Card,Delivered
+393,2025-12-22,1096,Fashion,Jeans,4,2439,0.1,8780.4,6931.65,Delhi,1848.75,UPI,Delivered
+394,2025-05-29,1104,Books,Notebook,4,272,0.0,1088.0,829.69,Bangalore,258.31,Net Banking,Delivered
+395,2025-09-18,1109,Beauty,Face Wash,1,2023,0.1,1820.7,1344.82,Bangalore,475.88,Credit Card,Cancelled
+396,2025-07-09,1032,Beauty,Shampoo,2,1468,0.1,2642.4,1714.89,Pune,927.51,Debit Card,Delivered
+397,2025-09-04,1129,Home & Kitchen,Bedsheet,3,1834,0.05,5226.9,3330.19,Hyderabad,1896.71,COD,Delivered
+398,2025-07-12,1127,Beauty,Shampoo,3,2301,0.2,5522.4,4721.82,Mumbai,800.58,Debit Card,Delivered
+399,2025-07-16,1108,Books,Fiction Book,1,1096,0.05,1041.2,788.96,Hyderabad,252.24,Credit Card,Delivered
+400,2025-02-21,1111,Beauty,Perfume,4,370,0.1,1332.0,1075.26,Pune,256.74,Debit Card,Cancelled
+401,2025-05-17,1020,Books,Technical Book,3,776,0.1,2095.2,1593.93,Bangalore,501.27,UPI,Delivered
+402,2025-04-08,1019,Home & Kitchen,Bedsheet,3,4345,0.05,12383.25,9965.07,Kolkata,2418.18,Debit Card,Delivered
+403,2025-09-24,1103,Beauty,Face Wash,2,1666,0.1,2998.8,2112.19,Pune,886.61,Debit Card,Cancelled
+404,2025-09-26,1089,Beauty,Face Wash,4,1852,0.1,6667.2,5648.93,Pune,1018.27,COD,Delivered
+405,2025-10-06,1028,Electronics,Power Bank,2,5155,0.05,9794.5,6975.83,Bangalore,2818.67,UPI,Delivered
+406,2025-04-03,1079,Electronics,Smart Watch,1,1877,0.2,1501.6,1227.37,Kolkata,274.23,UPI,Delivered
+407,2025-01-07,1022,Electronics,Bluetooth Speaker,2,3465,0.1,6237.0,4472.91,Delhi,1764.09,Debit Card,Delivered
+408,2025-06-10,1001,Fashion,T-Shirt,1,1049,0.0,1049.0,786.41,Hyderabad,262.59,COD,Delivered
+409,2025-06-27,1035,Books,Notebook,2,651,0.0,1302.0,881.51,Pune,420.49,Debit Card,Delivered
+410,2025-09-08,1031,Home & Kitchen,Bedsheet,2,2169,0.15,3687.3,2942.99,Hyderabad,744.31,Debit Card,Cancelled
+411,2025-03-31,1001,Books,Fiction Book,3,257,0.2,616.8,487.85,Mumbai,128.95,Credit Card,Delivered
+412,2025-02-02,1012,Fashion,Jeans,1,981,0.2,784.8,541.92,Kolkata,242.88,Credit Card,Delivered
+413,2025-06-29,1117,Home & Kitchen,Coffee Maker,2,2082,0.0,4164.0,2711.46,Hyderabad,1452.54,COD,Delivered
+414,2025-03-09,1123,Fashion,Sneakers,3,2171,0.0,6513.0,4811.23,Mumbai,1701.77,Net Banking,Delivered
+415,2025-03-26,1055,Beauty,Face Wash,2,582,0.1,1047.6,759.44,Bangalore,288.16,Credit Card,Delivered
+416,2025-07-16,1042,Beauty,Lipstick,3,1153,0.15,2940.15,2558.68,Pune,381.47,Net Banking,Delivered
+417,2025-12-14,1029,Home & Kitchen,Cookware Set,3,4154,0.0,12462.0,7382.81,Bangalore,5079.19,UPI,Delivered
+418,2025-02-14,1136,Beauty,Perfume,1,2369,0.1,2132.1,1306.95,Pune,825.15,Credit Card,Delivered
+419,2025-01-01,1010,Home & Kitchen,Coffee Maker,4,2362,0.0,9448.0,6372.6,Bangalore,3075.4,Credit Card,Cancelled
+420,2025-05-14,1025,Electronics,Wireless Headphones,2,6955,0.0,13910.0,7839.6,Mumbai,6070.4,COD,Delivered
+421,2025-05-17,1068,Books,Technical Book,2,328,0.05,623.2,476.37,Kolkata,146.83,Net Banking,Cancelled
+422,2025-05-28,1118,Electronics,Smart Watch,4,1122,0.1,4039.2,2643.37,Mumbai,1395.83,Credit Card,Delivered
+423,2025-09-06,1147,Fashion,Jeans,2,3260,0.0,6520.0,4006.79,Bangalore,2513.21,Credit Card,Cancelled
+424,2025-08-02,1019,Books,Self Help Book,2,382,0.1,687.6,550.18,Mumbai,137.42,COD,Delivered
+425,2025-02-06,1099,Beauty,Lipstick,4,1763,0.0,7052.0,4172.54,Mumbai,2879.46,COD,Delivered
+426,2025-08-02,1085,Home & Kitchen,Water Bottle,2,4379,0.2,7006.4,4839.22,Mumbai,2167.18,Net Banking,Delivered
+427,2025-03-18,1146,Books,Fiction Book,1,1088,0.1,979.2,745.8,Delhi,233.4,UPI,Delivered
+428,2025-12-06,1091,Books,Fiction Book,3,829,0.05,2362.65,1638.43,Kolkata,724.22,UPI,Delivered
+429,2025-04-02,1145,Home & Kitchen,Coffee Maker,1,4691,0.05,4456.45,3563.99,Hyderabad,892.46,Debit Card,Cancelled
+430,2025-03-16,1142,Electronics,Smart Watch,1,4953,0.0,4953.0,2828.17,Mumbai,2124.83,Credit Card,Delivered
+431,2025-01-01,1126,Home & Kitchen,Water Bottle,3,4541,0.0,13623.0,8287.29,Bangalore,5335.71,Net Banking,Delivered
+432,2025-12-02,1104,Fashion,T-Shirt,4,620,0.1,2232.0,1467.12,Mumbai,764.88,Credit Card,Delivered
+433,2025-03-29,1125,Fashion,T-Shirt,1,2468,0.1,2221.2,1478.87,Delhi,742.33,Net Banking,Delivered
+434,2025-09-04,1005,Beauty,Face Wash,1,471,0.0,471.0,355.05,Hyderabad,115.95,Net Banking,Delivered
+435,2025-09-13,1009,Fashion,Jeans,1,3219,0.15,2736.15,1806.89,Kolkata,929.26,Net Banking,Delivered
+436,2025-11-04,1130,Books,Technical Book,3,698,0.0,2094.0,1516.79,Kolkata,577.21,Credit Card,Delivered
+437,2025-07-02,1130,Beauty,Perfume,3,934,0.0,2802.0,1752.84,Delhi,1049.16,COD,Delivered
+438,2025-12-06,1069,Books,Self Help Book,3,847,0.0,2541.0,1518.28,Bangalore,1022.72,Credit Card,Delivered
+439,2025-08-05,1035,Home & Kitchen,Bedsheet,3,3689,0.2,8853.6,7029.24,Kolkata,1824.36,Net Banking,Delivered
+440,2025-07-29,1080,Electronics,Bluetooth Speaker,2,6531,0.05,12408.9,9624.73,Hyderabad,2784.17,Debit Card,Cancelled
+441,2025-08-03,1134,Home & Kitchen,Cookware Set,1,1272,0.05,1208.4,966.36,Pune,242.04,UPI,Cancelled
+442,2025-03-31,1021,Electronics,Wireless Headphones,2,3178,0.0,6356.0,3503.31,Kolkata,2852.69,Net Banking,Delivered
+443,2025-08-25,1104,Home & Kitchen,Table Lamp,4,1944,0.1,6998.4,5418.48,Bangalore,1579.92,Debit Card,Cancelled
+444,2025-03-04,1127,Electronics,Bluetooth Speaker,4,1766,0.1,6357.6,4918.6,Delhi,1439.0,COD,Delivered
+445,2025-09-10,1061,Home & Kitchen,Water Bottle,4,671,0.15,2281.4,1890.43,Delhi,390.97,Net Banking,Cancelled
+446,2025-03-20,1131,Beauty,Lipstick,3,1558,0.15,3972.9,2821.26,Kolkata,1151.64,Debit Card,Cancelled
+447,2025-03-20,1078,Books,Fiction Book,2,902,0.0,1804.0,1015.5,Delhi,788.5,Net Banking,Cancelled
+448,2025-07-28,1101,Books,Self Help Book,2,699,0.0,1398.0,896.47,Kolkata,501.53,Credit Card,Delivered
+449,2025-03-26,1094,Electronics,Keyboard,4,3444,0.05,13087.2,9959.86,Kolkata,3127.34,Debit Card,Cancelled
+450,2025-12-29,1100,Electronics,Wireless Headphones,1,4531,0.15,3851.35,2601.9,Kolkata,1249.45,Credit Card,Delivered
+451,2025-05-05,1082,Fashion,Handbag,2,3325,0.1,5985.0,4128.13,Bangalore,1856.87,Credit Card,Delivered
+452,2025-10-17,1087,Home & Kitchen,Table Lamp,4,2453,0.2,7849.6,5640.4,Mumbai,2209.2,Debit Card,Delivered
+453,2025-03-20,1146,Fashion,T-Shirt,1,1441,0.1,1296.9,1062.69,Kolkata,234.21,UPI,Delivered
+454,2025-07-12,1068,Home & Kitchen,Cookware Set,2,2418,0.2,3868.8,3499.09,Kolkata,369.71,Debit Card,Delivered
+455,2025-07-03,1128,Electronics,Power Bank,2,3210,0.0,6420.0,4126.78,Hyderabad,2293.22,UPI,Delivered
+456,2025-04-09,1062,Home & Kitchen,Coffee Maker,2,1707,0.1,3072.6,2106.48,Kolkata,966.12,Net Banking,Delivered
+457,2025-10-21,1142,Books,Technical Book,4,261,0.1,939.6,812.83,Delhi,126.77,Net Banking,Delivered
+458,2025-01-16,1123,Home & Kitchen,Table Lamp,1,3848,0.2,3078.4,2334.97,Pune,743.43,Debit Card,Delivered
+459,2025-10-29,1078,Fashion,Hoodie,1,985,0.05,935.75,607.22,Bangalore,328.53,Net Banking,Delivered
+460,2025-08-27,1058,Fashion,Jeans,2,1504,0.05,2857.6,2113.34,Kolkata,744.26,COD,Delivered
+461,2025-04-19,1055,Home & Kitchen,Cookware Set,2,4786,0.05,9093.4,5359.49,Bangalore,3733.91,Credit Card,Delivered
+462,2025-04-07,1071,Electronics,Keyboard,1,2390,0.1,2151.0,1662.6,Bangalore,488.4,Credit Card,Cancelled
+463,2025-08-14,1149,Fashion,Jeans,3,1016,0.05,2895.6,1780.51,Kolkata,1115.09,UPI,Cancelled
+464,2025-03-03,1028,Beauty,Face Wash,1,1905,0.1,1714.5,1278.25,Delhi,436.25,Net Banking,Delivered
+465,2025-06-25,1117,Home & Kitchen,Cookware Set,2,2360,0.15,4012.0,3383.37,Kolkata,628.63,UPI,Delivered
+466,2025-11-20,1081,Electronics,Keyboard,4,5261,0.0,21044.0,15505.96,Delhi,5538.04,Credit Card,Delivered
+467,2025-03-15,1109,Books,Self Help Book,4,810,0.05,3078.0,1992.42,Delhi,1085.58,Credit Card,Delivered
+468,2025-05-12,1082,Fashion,Jeans,4,2548,0.15,8663.2,5874.96,Bangalore,2788.24,Net Banking,Delivered
+469,2025-06-03,1092,Beauty,Shampoo,4,2494,0.0,9976.0,6605.09,Delhi,3370.91,COD,Delivered
+470,2025-07-03,1063,Fashion,Handbag,3,2416,0.05,6885.6,4704.66,Bangalore,2180.94,COD,Delivered
+471,2025-11-06,1062,Home & Kitchen,Coffee Maker,3,4001,0.1,10802.7,6715.03,Delhi,4087.67,Net Banking,Cancelled
+472,2025-03-12,1078,Electronics,Wireless Headphones,2,6037,0.1,10866.6,7974.49,Bangalore,2892.11,Net Banking,Delivered
+473,2025-09-10,1002,Fashion,Jeans,2,937,0.0,1874.0,1447.61,Kolkata,426.39,UPI,Cancelled
+474,2025-10-31,1066,Beauty,Face Wash,4,1951,0.05,7413.8,4513.78,Mumbai,2900.02,Net Banking,Delivered
+475,2025-11-18,1100,Electronics,Keyboard,3,7247,0.1,19566.9,15614.12,Kolkata,3952.78,COD,Delivered
+476,2025-09-03,1117,Home & Kitchen,Cookware Set,4,2296,0.0,9184.0,6830.0,Bangalore,2354.0,Net Banking,Delivered
+477,2025-03-10,1023,Home & Kitchen,Bedsheet,3,1115,0.05,3177.75,2476.52,Pune,701.23,UPI,Cancelled
+478,2025-02-04,1119,Books,Fiction Book,3,1038,0.1,2802.6,2327.17,Kolkata,475.43,UPI,Delivered
+479,2025-08-11,1115,Fashion,Hoodie,2,2566,0.1,4618.8,2965.78,Delhi,1653.02,UPI,Cancelled
+480,2025-12-20,1006,Beauty,Lipstick,2,2444,0.2,3910.4,3545.31,Pune,365.09,UPI,Delivered
+481,2025-07-31,1112,Home & Kitchen,Table Lamp,3,2867,0.1,7740.9,5121.36,Hyderabad,2619.54,Debit Card,Delivered
+482,2025-06-16,1020,Books,Self Help Book,4,1130,0.15,3842.0,2628.26,Delhi,1213.74,Net Banking,Delivered
+483,2025-10-21,1051,Electronics,Smart Watch,2,6213,0.0,12426.0,8616.31,Mumbai,3809.69,Credit Card,Delivered
+484,2025-12-18,1048,Books,Cookbook,1,1191,0.0,1191.0,684.13,Mumbai,506.87,Net Banking,Delivered
+485,2025-08-20,1126,Home & Kitchen,Cookware Set,2,4165,0.15,7080.5,5352.28,Pune,1728.22,Debit Card,Delivered
+486,2025-04-20,1088,Electronics,Keyboard,2,5425,0.1,9765.0,7392.2,Pune,2372.8,UPI,Delivered
+487,2025-01-13,1040,Beauty,Perfume,2,338,0.2,540.8,506.3,Delhi,34.5,Debit Card,Cancelled
+488,2025-01-18,1057,Beauty,Moisturizer,3,1502,0.0,4506.0,2912.68,Pune,1593.32,COD,Cancelled
+489,2025-03-18,1002,Fashion,Handbag,3,1682,0.0,5046.0,3893.73,Pune,1152.27,COD,Delivered
+490,2025-01-05,1074,Fashion,Jeans,4,2463,0.05,9359.4,7412.28,Hyderabad,1947.12,Net Banking,Delivered
+491,2025-12-21,1143,Books,Fiction Book,1,909,0.2,727.2,658.93,Hyderabad,68.27,Net Banking,Delivered
+492,2025-05-31,1123,Books,Fiction Book,4,645,0.05,2451.0,1681.77,Kolkata,769.23,Credit Card,Delivered
+493,2025-11-21,1028,Books,Notebook,4,1157,0.0,4628.0,3083.33,Bangalore,1544.67,Credit Card,Delivered
+494,2025-11-20,1033,Books,Self Help Book,2,517,0.15,878.9,592.3,Delhi,286.6,COD,Delivered
+495,2025-01-04,1095,Books,Technical Book,2,370,0.05,703.0,455.13,Mumbai,247.87,UPI,Cancelled
+496,2025-05-01,1105,Beauty,Face Wash,3,772,0.1,2084.4,1562.82,Kolkata,521.58,Debit Card,Delivered
+497,2025-09-30,1112,Beauty,Perfume,1,1065,0.05,1011.75,748.33,Bangalore,263.42,Credit Card,Delivered
+498,2025-08-03,1130,Home & Kitchen,Table Lamp,2,1218,0.05,2314.2,1667.73,Delhi,646.47,Credit Card,Delivered
+499,2025-07-14,1113,Home & Kitchen,Table Lamp,2,3451,0.05,6556.9,5286.53,Kolkata,1270.37,UPI,Delivered
+500,2025-12-09,1084,Fashion,T-Shirt,2,2059,0.15,3500.3,2458.11,Hyderabad,1042.19,UPI,Delivered
